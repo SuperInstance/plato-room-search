@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: plato-room-search
+Version: 0.1.0
+Summary: Cross-room tile search with composite ranking
+License: MIT
+Requires-Python: >=3.8
